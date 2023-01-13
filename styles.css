@@ -1,0 +1,57 @@
+body {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 18px; 
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
+li {
+    list-style-type: none;
+}
+
+.wrapper-blue {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70vw;
+    margin: 0 auto;
+}
+
+.section-one {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 70vw;
+    margin: 0px auto;
+    padding: 20px 0px;
+}
+
+.button-signup {
+    display: block;
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 10px 30px;
+    margin-top: 10px;
+}
+
+.logo {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.header-links {
+    
+    display: flex;
+    gap: 20px;
+}
